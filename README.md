@@ -20,7 +20,6 @@
 
   <p align="center">
     A simple portfolio website project on the roadmap to getting started with web development
-
     <br />
     <a href="https://github.com/jkuatdsc/portfolio-example"><strong>Explore the docs »</strong></a>
     <br />
@@ -177,9 +176,9 @@ Project Link: [https://github.com/jkuatdsc/portfolio-example](https://github.com
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Choosing an Open Source License](https://choosealicense.com)
+* [Unicons](https://iconscout.com/unicons)
+* [Figma](www.fogma.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,7 +198,7 @@ Project Link: [https://github.com/jkuatdsc/portfolio-example](https://github.com
 [license-url]: https://github.com/jkuatdsc/portfolio-example/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/juliana-sau-477237100
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/screenshot.jpeg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
