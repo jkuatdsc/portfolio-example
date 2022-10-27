@@ -30,3 +30,45 @@ nav {
     text-align: end;
 }
 
+/* Home Section Styling */
+.section {
+    padding-left: 7rem;
+    padding-right: 7rem;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    height: 80vh;
+}
+
+.intro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-image {
+    height: 80vh;
+    width: 350px;
+    object-fit: cover;
+}
+
+.about-me {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-me i {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: blue;
+}
+
+
