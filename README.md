@@ -22,7 +22,7 @@
     <a href="https://github.com/jkuatdsc/portfolio-example"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jkuatdsc/portfolio-example">View Demo</a>
+    <a href="https://gdsc-portfolio-example.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/jkuatdsc/portfolio-example/issues">Report Bug</a>
     ·
@@ -115,11 +115,14 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-- [ ] Home Page
+- [x] Home Page
   - [ ] Make navigation work
-- [ ] About Page
+  - [x] Make download button work
+  - [ ] Make email feature work
+  - [ ] Add animations
+- [x] About Page
 - [ ] Portfolio Page
-  - [ ] Nested Feature
+  - [ ] add animations
 
 See the [open issues](https://github.com/jkuatdsc/portfolio-example/issues) for a full list of proposed features (and known issues).
 
