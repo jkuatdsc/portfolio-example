@@ -1,0 +1,32 @@
+.about-text {
+    font-weight: bold;
+}
+
+.about-desc {
+    width: 85%;
+}
+
+.about-img-text {
+    font-weight: bold;
+    font-size: 90px;
+    color:rgba(0, 0, 0, 0.22); 
+    position: absolute;
+    top: 30%;
+    transform: translateX(-15.9%);
+}
+
+.view {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle-right {
+    position: absolute;
+    border: 0.2px solid #1e1e1e;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    top: 37%;
+}
+
